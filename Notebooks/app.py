@@ -14,3 +14,4 @@ df_degrees.plot(
     title='Starting Salaries for Undergraduate Degree',
     kind='bar'
 )
+plt.show()
